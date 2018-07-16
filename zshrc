@@ -14,7 +14,7 @@ export ZSH_TMUX_AUTOSTART=true
 plugins=(zsh-git-prompt zsh-syntax-highlighting history-substring-search zsh-nvm tmux ng web-search common-aliases)
 
 source $ZSH/oh-my-zsh.sh
-source $HOME/.bash_aliases
+#source $HOME/.bash_aliases
 
 # User configuration
 
